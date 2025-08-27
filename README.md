@@ -52,19 +52,28 @@
 
 | Home Screen | Login Screen | OTP Screen |
 |-------------|--------------|------------|
-| <img src="./src/assets/screenshots/HomeScreen.jpg" width="250" style="border:5px solid black; border-radius:12px;" /> | <img src="./src/assets/screenshots/LoginScreen.jpg" width="250" style="border:5px solid black; border-radius:12px;" /> | <img src="./src/assets/screenshots/OTPScreen.jpg" width="250" style="border:5px solid black; border-radius:12px;" /> |
+| <img src="./src/assets/screenshots/HomeScreen.jpg" width="250" style="border:5px solid black; border-radius:12px; margin: 10px;" /> | <img src="./src/assets/screenshots/LoginScreen.jpg" width="250" style="border:5px solid black; border-radius:12px; margin: 10px;" /> | <img src="./src/assets/screenshots/OTPScreen.jpg" width="250" style="border:5px solid black; border-radius:12px; margin: 10px;" /> |
+
+<br/>
 
 | API Fetch | Main Screen | Product Detail |
 |-----------|------------|----------------|
-| <img src="./src/assets/screenshots/apiFetchScreen.jpg" width="250" style="border:5px solid black; border-radius:12px;" /> | <img src="./src/assets/screenshots/MainScreen.jpg" width="250" style="border:5px solid black; border-radius:12px;" /> | <img src="./src/assets/screenshots/ProductDetailScreen.jpg" width="250" style="border:5px solid black; border-radius:12px;" /> |
+| <img src="./src/assets/screenshots/apiFetchScreen.jpg" width="250" style="border:5px solid black; border-radius:12px; margin: 10px;" /> | <img src="./src/assets/screenshots/MainScreen.jpg" width="250" style="border:5px solid black; border-radius:12px; margin: 10px;" /> | <img src="./src/assets/screenshots/ProductDetailScreen.jpg" width="250" style="border:5px solid black; border-radius:12px; margin: 10px;" /> |
+
+<br/>
 
 | Explore Screen | Empty Cart | Cart Screen |
 |----------------|------------|-------------|
-| <img src="./src/assets/screenshots/ExploreScreen.jpg" width="250" style="border:5px solid black; border-radius:12px;" /> | <img src="./src/assets/screenshots/EmptyCartScreen.jpg" width="250" style="border:5px solid black; border-radius:12px;" /> | <img src="./src/assets/screenshots/CartScreen.jpg" width="250" style="border:5px solid black; border-radius:12px;" /> |
+| <img src="./src/assets/screenshots/ExploreScreen.jpg" width="250" style="border:5px solid black; border-radius:12px; margin: 10px;" /> | <img src="./src/assets/screenshots/EmptyCartScreen.jpg" width="250" style="border:5px solid black; border-radius:12px; margin: 10px;" /> | <img src="./src/assets/screenshots/CartScreen.jpg" width="250" style="border:5px solid black; border-radius:12px; margin: 10px;" /> |
+
+<br/>
 
 | Empty Favourite | Favourite Screen | Profile Screen |
 |-----------------|----------------|----------------|
-| <img src="./src/assets/screenshots/EmptyFavouriteScreen.jpg" width="250" style="border:5px solid black; border-radius:12px;" /> | <img src="./src/assets/screenshots/FavouriteScreen.jpg" width="250" style="border:5px solid black; border-radius:12px;" /> | <img src="./src/assets/screenshots/ProfileScreen.jpg" width="250" style="border:5px solid black; border-radius:12px;" /> |
+| <img src="./src/assets/screenshots/EmptyFavouriteScreen.jpg" width="250" style="border:5px solid black; border-radius:12px; margin: 10px;" /> | <img src="./src/assets/screenshots/FavouriteScreen.jpg" width="250" style="border:5px solid black; border-radius:12px; margin: 10px;" /> | <img src="./src/assets/screenshots/ProfileScreen.jpg" width="250" style="border:5px solid black; border-radius:12px; margin: 10px;" /> |
+
+<br/>
+
 
 
 
