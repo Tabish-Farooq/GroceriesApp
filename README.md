@@ -53,67 +53,22 @@
 
 ## Screenshots
 
-<p><em>Each screen in the app is shown below:</em></p>
+| Home Screen | Login Screen | OTP Screen |
+|-------------|--------------|------------|
+| <img src="./src/assets/screenshots/HomeScreen.jpg" width="200"/> | <img src="./src/assets/screenshots/LoginScreen.jpg" width="200"/> | <img src="./src/assets/screenshots/OTPScreen.jpg" width="200"/> |
 
-<div>
-  <h4>Home Screen</h4>
-  <img src="./src/assets/screenshots/HomeScreen.jpg" alt="Home Screen" width="300"/>
-</div>
+| API Fetch | Main Screen | Product Detail |
+|-----------|-------------|----------------|
+| <img src="./src/assets/screenshots/apiFetchScreen.jpg" width="200"/> | <img src="./src/assets/screenshots/MainScreen.jpg" width="200"/> | <img src="./src/assets/screenshots/ProductDetailScreen.jpg" width="200"/> |
 
-<div>
-  <h4>Login Screen</h4>
-  <img src="./src/assets/screenshots/LoginScreen.jpg" alt="Login Screen" width="300"/>
-</div>
+| Favourite Screen | Cart Screen | Empty Cart |
+|------------------|-------------|------------|
+| <img src="./src/assets/screenshots/FavouriteScreen.jpg" width="200"/> | <img src="./src/assets/screenshots/CartScreen.jpg" width="200"/> | <img src="./src/assets/screenshots/EmptyCart.jpg" width="200"/> |
 
-<div>
-  <h4>OTP Screen</h4>
-  <img src="./src/assets/screenshots/OTPScreen.jpg" alt="OTP Screen" width="300"/>
-</div>
+| Search Screen | Profile Screen | Splash Screen |
+|---------------|----------------|----------------|
+| <img src="./src/assets/screenshots/SearchScreen.jpg" width="200"/> | <img src="./src/assets/screenshots/ProfileScreen.jpg" width="200"/> | <img src="./src/assets/screenshots/SplashScreen.jpg" width="200"/> |
 
-<div>
-  <h4>API Fetch Screen</h4>
-  <img src="./src/assets/screenshots/apiFetchScreen.jpg" alt="API Fetch Screen" width="300"/>
-</div>
-
-<div>
-  <h4>Main Screen</h4>
-  <img src="./src/assets/screenshots/MainScreen.jpg" alt="Main Screen" width="300"/>
-</div>
-
-<div>
-  <h4>Product Detail Screen</h4>
-  <img src="./src/assets/screenshots/ProductDetailScreen.jpg" alt="Product Detail Screen" width="300"/>
-</div>
-
-<div>
-  <h4>Explore Screen</h4>
-  <img src="./src/assets/screenshots/ExploreScreen.jpg" alt="Explore Screen" width="300"/>
-</div>
-
-<div>
-  <h4>Empty Cart Screen</h4>
-  <img src="./src/assets/screenshots/EmptyCartScreen.jpg" alt="Empty Cart Screen" width="300"/>
-</div>
-
-<div>
-  <h4>Cart Screen</h4>
-  <img src="./src/assets/screenshots/CartScreen.jpg" alt="Cart Screen" width="300"/>
-</div>
-
-<div>
-  <h4>Empty Favourite Screen</h4>
-  <img src="./src/assets/screenshots/EmptyFavouriteScreen.jpg" alt="Empty Favourite Screen" width="300"/>
-</div>
-
-<div>
-  <h4>Favourite Screen</h4>
-  <img src="./src/assets/screenshots/FavouriteScreen.jpg" alt="Favourite Screen" width="300"/>
-</div>
-
-<div>
-  <h4>Profile Screen</h4>
-  <img src="./src/assets/screenshots/ProfileScreen.jpg" alt="Profile Screen" width="300"/>
-</div>
 
 
 ## Technologies Used
