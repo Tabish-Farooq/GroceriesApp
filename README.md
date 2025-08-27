@@ -52,53 +52,90 @@
 
 <div align="center">
 
-  <!-- Row 1 -->
+<!-- Row 1 -->
+<div style="display: inline-block; text-align: center; margin: 15px;">
+  <h3>Home Screen</h3>
   <img src="./src/assets/screenshots/HomeScreen.jpg" width="250" 
-       style="border: 6px solid black; border-radius: 15px; margin: 15px;" />
+       style="border: 5px solid black; border-radius: 12px;" />
+</div>
 
+<div style="display: inline-block; text-align: center; margin: 15px;">
+  <h3>Login Screen</h3>
   <img src="./src/assets/screenshots/LoginScreen.jpg" width="250" 
-       style="border: 6px solid black; border-radius: 15px; margin: 15px;" />
+       style="border: 5px solid black; border-radius: 12px;" />
+</div>
 
+<div style="display: inline-block; text-align: center; margin: 15px;">
+  <h3>OTP Screen</h3>
   <img src="./src/assets/screenshots/OTPScreen.jpg" width="250" 
-       style="border: 6px solid black; border-radius: 15px; margin: 15px;" />
+       style="border: 5px solid black; border-radius: 12px;" />
+</div>
 
-  <br/>
+<br/>
 
-  <!-- Row 2 -->
+<!-- Row 2 -->
+<div style="display: inline-block; text-align: center; margin: 15px;">
+  <h3>API Fetch</h3>
   <img src="./src/assets/screenshots/apiFetchScreen.jpg" width="250" 
-       style="border: 6px solid black; border-radius: 15px; margin: 15px;" />
+       style="border: 5px solid black; border-radius: 12px;" />
+</div>
 
+<div style="display: inline-block; text-align: center; margin: 15px;">
+  <h3>Main Screen</h3>
   <img src="./src/assets/screenshots/MainScreen.jpg" width="250" 
-       style="border: 6px solid black; border-radius: 15px; margin: 15px;" />
+       style="border: 5px solid black; border-radius: 12px;" />
+</div>
 
+<div style="display: inline-block; text-align: center; margin: 15px;">
+  <h3>Product Detail</h3>
   <img src="./src/assets/screenshots/ProductDetailScreen.jpg" width="250" 
-       style="border: 6px solid black; border-radius: 15px; margin: 15px;" />
+       style="border: 5px solid black; border-radius: 12px;" />
+</div>
 
-  <br/>
+<br/>
 
-  <!-- Row 3 -->
+<!-- Row 3 -->
+<div style="display: inline-block; text-align: center; margin: 15px;">
+  <h3>Explore Screen</h3>
   <img src="./src/assets/screenshots/ExploreScreen.jpg" width="250" 
-       style="border: 6px solid black; border-radius: 15px; margin: 15px;" />
+       style="border: 5px solid black; border-radius: 12px;" />
+</div>
 
+<div style="display: inline-block; text-align: center; margin: 15px;">
+  <h3>Empty Cart</h3>
   <img src="./src/assets/screenshots/EmptyCartScreen.jpg" width="250" 
-       style="border: 6px solid black; border-radius: 15px; margin: 15px;" />
+       style="border: 5px solid black; border-radius: 12px;" />
+</div>
 
+<div style="display: inline-block; text-align: center; margin: 15px;">
+  <h3>Cart Screen</h3>
   <img src="./src/assets/screenshots/CartScreen.jpg" width="250" 
-       style="border: 6px solid black; border-radius: 15px; margin: 15px;" />
+       style="border: 5px solid black; border-radius: 12px;" />
+</div>
 
-  <br/>
+<br/>
 
-  <!-- Row 4 -->
+<!-- Row 4 -->
+<div style="display: inline-block; text-align: center; margin: 15px;">
+  <h3>Empty Favourite</h3>
   <img src="./src/assets/screenshots/EmptyFavouriteScreen.jpg" width="250" 
-       style="border: 6px solid black; border-radius: 15px; margin: 15px;" />
+       style="border: 5px solid black; border-radius: 12px;" />
+</div>
 
+<div style="display: inline-block; text-align: center; margin: 15px;">
+  <h3>Favourite Screen</h3>
   <img src="./src/assets/screenshots/FavouriteScreen.jpg" width="250" 
-       style="border: 6px solid black; border-radius: 15px; margin: 15px;" />
+       style="border: 5px solid black; border-radius: 12px;" />
+</div>
 
+<div style="display: inline-block; text-align: center; margin: 15px;">
+  <h3>Profile Screen</h3>
   <img src="./src/assets/screenshots/ProfileScreen.jpg" width="250" 
-       style="border: 6px solid black; border-radius: 15px; margin: 15px;" />
+       style="border: 5px solid black; border-radius: 12px;" />
+</div>
 
 </div>
+
 
 
 
