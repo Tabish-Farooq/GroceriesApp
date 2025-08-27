@@ -55,18 +55,18 @@
 
 <table>
   <tr>
-    <th align="center"><strong>Home Screen</strong></th>
-    <th align="center"><strong>Login Screen</strong></th>
-    <th align="center"><strong>OTP Screen</strong></th>
+    <th align="center"><h1>Home Screen</h1></th>
+    <th align="center"><h1>Login Screen</h1></th>
+    <th align="center"><h1>OTP Screen</h1></th>
   </tr>
   <tr>
-    <td align="center" style="border:2px solid black; padding:15px;">
+    <td align="center" style="border:4px solid black; padding:15px;">
       <img src="./src/assets/screenshots/HomeScreen.jpg" width="250"/>
     </td>
-    <td align="center" style="border:2px solid black; padding:15px;">
+    <td align="center" style="border:4px solid black; padding:15px;">
       <img src="./src/assets/screenshots/LoginScreen.jpg" width="250"/>
     </td>
-    <td align="center" style="border:2px solid black; padding:15px;">
+    <td align="center" style="border:4px solid black; padding:15px;">
       <img src="./src/assets/screenshots/OTPScreen.jpg" width="250"/>
     </td>
   </tr>
@@ -76,18 +76,18 @@
 
 <table>
   <tr>
-    <th align="center"><strong>API Fetch</strong></th>
-    <th align="center"><strong>Main Screen</strong></th>
-    <th align="center"><strong>Product Detail</strong></th>
+    <th align="center"><h1>API Fetch</h1></th>
+    <th align="center"><h1>Main Screen</h1></th>
+    <th align="center"><h1>Product Detail</h1></th>
   </tr>
   <tr>
-    <td align="center" style="border:2px solid black; padding:15px;">
+    <td align="center" style="border:4px solid black; padding:15px;">
       <img src="./src/assets/screenshots/apiFetchScreen.jpg" width="250"/>
     </td>
-    <td align="center" style="border:2px solid black; padding:15px;">
+    <td align="center" style="border:4px solid black; padding:15px;">
       <img src="./src/assets/screenshots/MainScreen.jpg" width="250"/>
     </td>
-    <td align="center" style="border:2px solid black; padding:15px;">
+    <td align="center" style="border:4px solid black; padding:15px;">
       <img src="./src/assets/screenshots/ProductDetailScreen.jpg" width="250"/>
     </td>
   </tr>
@@ -97,18 +97,18 @@
 
 <table>
   <tr>
-    <th align="center"><strong>Explore Screen</strong></th>
-    <th align="center"><strong>Empty Cart Screen</strong></th>
-    <th align="center"><strong>Cart Screen</strong></th>
+    <th align="center"><h1>Explore Screen</h1></th>
+    <th align="center"><h1>Empty Cart Screen</h1></th>
+    <th align="center"><h1>Cart Screen</h1></th>
   </tr>
   <tr>
-    <td align="center" style="border:2px solid black; padding:15px;">
+    <td align="center" style="border:4px solid black; padding:15px;">
       <img src="./src/assets/screenshots/ExploreScreen.jpg" width="250"/>
     </td>
-    <td align="center" style="border:2px solid black; padding:15px;">
+    <td align="center" style="border:4px solid black; padding:15px;">
       <img src="./src/assets/screenshots/EmptyCartScreen.jpg" width="250"/>
     </td>
-    <td align="center" style="border:2px solid black; padding:15px;">
+    <td align="center" style="border:4px solid black; padding:15px;">
       <img src="./src/assets/screenshots/CartScreen.jpg" width="250"/>
     </td>
   </tr>
@@ -118,26 +118,22 @@
 
 <table>
   <tr>
-    <th align="center"><strong>Empty Favourite</strong></th>
-    <th align="center"><strong>Favourite Screen</strong></th>
-    <th align="center"><strong>Profile Screen</strong></th>
+    <th align="center"><h1>Empty Favourite</h1></th>
+    <th align="center"><h1>Favourite Screen</h1></th>
+    <th align="center"><h1>Profile Screen</h1></th>
   </tr>
   <tr>
-    <td align="center" style="border:2px solid black; padding:15px;">
+    <td align="center" style="border:4px solid black; padding:15px;">
       <img src="./src/assets/screenshots/EmptyFavouriteScreen.jpg" width="250"/>
     </td>
-    <td align="center" style="border:2px solid black; padding:15px;">
+    <td align="center" style="border:4px solid black; padding:15px;">
       <img src="./src/assets/screenshots/FavouriteScreen.jpg" width="250"/>
     </td>
-    <td align="center" style="border:2px solid black; padding:15px;">
+    <td align="center" style="border:4px solid black; padding:15px;">
       <img src="./src/assets/screenshots/ProfileScreen.jpg" width="250"/>
     </td>
   </tr>
 </table>
-
-
-
-
 
 
 
