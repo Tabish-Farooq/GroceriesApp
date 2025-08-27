@@ -56,15 +56,15 @@
   <table>
     <tr>
       <td align="center">
-        <h2>Home Screen</h2>
+        <h2 style="text-decoration:none;">Home Screen</h2>
         <img src="./src/assets/screenshots/HomeScreen.jpg" width="250" style="border:5px solid black; border-radius:12px;" />
       </td>
       <td align="center">
-        <h2>Login Screen</h2>
+        <h2 style="text-decoration:none;">Login Screen</h2>
         <img src="./src/assets/screenshots/LoginScreen.jpg" width="250" style="border:5px solid black; border-radius:12px;" />
       </td>
       <td align="center">
-        <h2>OTP Screen</h2>
+        <h2 style="text-decoration:none;">OTP Screen</h2>
         <img src="./src/assets/screenshots/OTPScreen.jpg" width="250" style="border:5px solid black; border-radius:12px;" />
       </td>
     </tr>
@@ -76,15 +76,15 @@
   <table>
     <tr>
       <td align="center">
-        <h2>API Fetch</h2>
+        <h2 style="text-decoration:none;">API Fetch</h2>
         <img src="./src/assets/screenshots/apiFetchScreen.jpg" width="250" style="border:5px solid black; border-radius:12px;" />
       </td>
       <td align="center">
-        <h2>Main Screen</h2>
+        <h2 style="text-decoration:none;">Main Screen</h2>
         <img src="./src/assets/screenshots/MainScreen.jpg" width="250" style="border:5px solid black; border-radius:12px;" />
       </td>
       <td align="center">
-        <h2>Product Detail</h2>
+        <h2 style="text-decoration:none;">Product Detail</h2>
         <img src="./src/assets/screenshots/ProductDetailScreen.jpg" width="250" style="border:5px solid black; border-radius:12px;" />
       </td>
     </tr>
@@ -96,15 +96,15 @@
   <table>
     <tr>
       <td align="center">
-        <h2>Explore Screen</h2>
+        <h2 style="text-decoration:none;">Explore Screen</h2>
         <img src="./src/assets/screenshots/ExploreScreen.jpg" width="250" style="border:5px solid black; border-radius:12px;" />
       </td>
       <td align="center">
-        <h2>Empty Cart</h2>
+        <h2 style="text-decoration:none;">Empty Cart</h2>
         <img src="./src/assets/screenshots/EmptyCartScreen.jpg" width="250" style="border:5px solid black; border-radius:12px;" />
       </td>
       <td align="center">
-        <h2>Cart Screen</h2>
+        <h2 style="text-decoration:none;">Cart Screen</h2>
         <img src="./src/assets/screenshots/CartScreen.jpg" width="250" style="border:5px solid black; border-radius:12px;" />
       </td>
     </tr>
@@ -116,21 +116,22 @@
   <table>
     <tr>
       <td align="center">
-        <h2>Empty Favourite</h2>
+        <h2 style="text-decoration:none;">Empty Favourite</h2>
         <img src="./src/assets/screenshots/EmptyFavouriteScreen.jpg" width="250" style="border:5px solid black; border-radius:12px;" />
       </td>
       <td align="center">
-        <h2>Favourite Screen</h2>
+        <h2 style="text-decoration:none;">Favourite Screen</h2>
         <img src="./src/assets/screenshots/FavouriteScreen.jpg" width="250" style="border:5px solid black; border-radius:12px;" />
       </td>
       <td align="center">
-        <h2>Profile Screen</h2>
+        <h2 style="text-decoration:none;">Profile Screen</h2>
         <img src="./src/assets/screenshots/ProfileScreen.jpg" width="250" style="border:5px solid black; border-radius:12px;" />
       </td>
     </tr>
   </table>
 
 </div>
+
 
 
 
