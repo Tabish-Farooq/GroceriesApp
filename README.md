@@ -16,6 +16,7 @@ A modern and responsive grocery shopping app built with **React Native**, Redux 
 - [Redux State Management](#redux-state-management)
 - [API Integration](#api-integration)
 - [Troubleshooting](#troubleshooting)
+- [Future Enhancements](#future-enhancements)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -35,97 +36,31 @@ A modern and responsive grocery shopping app built with **React Native**, Redux 
 
 ## App Flow
 
-The app follows this flow from start to finish:
-
-<div style="text-align:center;">
 **HomeScreen → LoginScreen → OTPScreen → APIFetchScreen → MainScreen → ProductDetailScreen → ExploreScreen → EmptyCartScreen → CartScreen → EmptyFavouriteScreen → FavouriteScreen → ProfileScreen**
-</div>
 
 ---
 
 ## Screenshots
 
-<div align="center">
+### Home, Login, and OTP Screens
+![Home Screen](./src/assets/screenshots/HomeScreen.jpg)
+![Login Screen](./src/assets/screenshots/LoginScreen.jpg)
+![OTP Screen](./src/assets/screenshots/OTPScreen.jpg)
 
-  <!-- Row 1 -->
-  <table>
-    <tr>
-      <td align="center">
-        <h2 style="text-decoration:none;">Home Screen</h2>
-        <img src="./src/assets/screenshots/HomeScreen.jpg" width="250" style="border:5px solid black; border-radius:12px;" />
-      </td>
-      <td align="center">
-        <h2 style="text-decoration:none;">Login Screen</h2>
-        <img src="./src/assets/screenshots/LoginScreen.jpg" width="250" style="border:5px solid black; border-radius:12px;" />
-      </td>
-      <td align="center">
-        <h2 style="text-decoration:none;">OTP Screen</h2>
-        <img src="./src/assets/screenshots/OTPScreen.jpg" width="250" style="border:5px solid black; border-radius:12px;" />
-      </td>
-    </tr>
-  </table>
+### API Fetch, Main, and Product Detail Screens
+![API Fetch Screen](./src/assets/screenshots/apiFetchScreen.jpg)
+![Main Screen](./src/assets/screenshots/MainScreen.jpg)
+![Product Detail Screen](./src/assets/screenshots/ProductDetailScreen.jpg)
 
-  <br/>
+### Explore, Empty Cart, and Cart Screens
+![Explore Screen](./src/assets/screenshots/ExploreScreen.jpg)
+![Empty Cart Screen](./src/assets/screenshots/EmptyCartScreen.jpg)
+![Cart Screen](./src/assets/screenshots/CartScreen.jpg)
 
-  <!-- Row 2 -->
-  <table>
-    <tr>
-      <td align="center">
-        <h2 style="text-decoration:none;">API Fetch</h2>
-        <img src="./src/assets/screenshots/apiFetchScreen.jpg" width="250" style="border:5px solid black; border-radius:12px;" />
-      </td>
-      <td align="center">
-        <h2 style="text-decoration:none;">Main Screen</h2>
-        <img src="./src/assets/screenshots/MainScreen.jpg" width="250" style="border:5px solid black; border-radius:12px;" />
-      </td>
-      <td align="center">
-        <h2 style="text-decoration:none;">Product Detail</h2>
-        <img src="./src/assets/screenshots/ProductDetailScreen.jpg" width="250" style="border:5px solid black; border-radius:12px;" />
-      </td>
-    </tr>
-  </table>
-
-  <br/>
-
-  <!-- Row 3 -->
-  <table>
-    <tr>
-      <td align="center">
-        <h2 style="text-decoration:none;">Explore Screen</h2>
-        <img src="./src/assets/screenshots/ExploreScreen.jpg" width="250" style="border:5px solid black; border-radius:12px;" />
-      </td>
-      <td align="center">
-        <h2 style="text-decoration:none;">Empty Cart</h2>
-        <img src="./src/assets/screenshots/EmptyCartScreen.jpg" width="250" style="border:5px solid black; border-radius:12px;" />
-      </td>
-      <td align="center">
-        <h2 style="text-decoration:none;">Cart Screen</h2>
-        <img src="./src/assets/screenshots/CartScreen.jpg" width="250" style="border:5px solid black; border-radius:12px;" />
-      </td>
-    </tr>
-  </table>
-
-  <br/>
-
-  <!-- Row 4 -->
-  <table>
-    <tr>
-      <td align="center">
-        <h2 style="text-decoration:none;">Empty Favourite</h2>
-        <img src="./src/assets/screenshots/EmptyFavouriteScreen.jpg" width="250" style="border:5px solid black; border-radius:12px;" />
-      </td>
-      <td align="center">
-        <h2 style="text-decoration:none;">Favourite Screen</h2>
-        <img src="./src/assets/screenshots/FavouriteScreen.jpg" width="250" style="border:5px solid black; border-radius:12px;" />
-      </td>
-      <td align="center">
-        <h2 style="text-decoration:none;">Profile Screen</h2>
-        <img src="./src/assets/screenshots/ProfileScreen.jpg" width="250" style="border:5px solid black; border-radius:12px;" />
-      </td>
-    </tr>
-  </table>
-
-</div>
+### Empty Favourite, Favourite, and Profile Screens
+![Empty Favourite Screen](./src/assets/screenshots/EmptyFavouriteScreen.jpg)
+![Favourite Screen](./src/assets/screenshots/FavouriteScreen.jpg)
+![Profile Screen](./src/assets/screenshots/ProfileScreen.jpg)
 
 ---
 
@@ -141,28 +76,28 @@ The app follows this flow from start to finish:
 
 ## Installation
 
-**Note:** Make sure you have completed the [Set Up Your Environment](https://reactnative.dev/docs/environment-setup) guide before proceeding.
+**Note:** Ensure you have completed the [React Native Environment Setup](https://reactnative.dev/docs/environment-setup) before proceeding.
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Tabish-Farooq/GroceriesApp.git
-<h2>Navigate into the project directory:</h2>
-<pre><code>cd GroceriesApp</code></pre>
+```bash
+# Clone the repository
+git clone https://github.com/Tabish-Farooq/GroceriesApp.git
 
-<h2>Install dependencies:</h2>
-<pre><code>npm install
+# Navigate into the project directory
+cd GroceriesApp
+
+# Install dependencies
+npm install
 # or
 yarn install
-</code></pre>
 
-<h2>Start the Metro server:</h2>
-<pre><code>npx react-native start</code></pre>
+# Start Metro server
+npx react-native start
 
-<h2>Run the app on Android:</h2>
-<pre><code>npx react-native run-android</code></pre>
+# Run on Android
+npx react-native run-android
 
-<h2>Run the app on iOS (Mac only):</h2>
-<pre><code>npx react-native run-ios</code></pre>
+# Run on iOS (Mac only)
+npx react-native run-ios
 
 <h2>Usage</h2>
 <ul>
@@ -175,18 +110,84 @@ yarn install
 
 <h2>Folder Structure</h2>
 <pre><code>GroceriesApp/
-│
-├── android/                 # Android native files
-├── ios/                     # iOS native files
+├── android/                 
+├── ios/                     
 ├── src/
-│   ├── assets/              # Images, fonts, icons
-│   ├── components/          # Reusable components
-│   ├── navigation/          # Navigation stack & tabs
-│   ├── screens/             # All app screens
-│   ├── redux/               # Redux slices & store
-│   ├── api/                 # API calls & services
-│   └── utils/               # Helper functions
-├── App.js                   # Main app entry
+│   ├── assets/              
+│   ├── components/          
+│   ├── navigation/          
+│   ├── screens/             
+│   ├── redux/               
+│   ├── api/                 
+│   └── utils/               
+├── App.js                   
 ├── package.json
 └── README.md
 </code></pre>
+
+<h2>Redux State Management</h2>
+<p>The app uses <strong>Redux Toolkit</strong> for efficient and scalable state management:</p>
+<ul>
+  <li><strong>Store</strong> – Centralized state container</li>
+  <li><strong>Slices</strong> – Modular pieces of state (e.g., cartSlice, favouriteSlice)</li>
+  <li><strong>Actions</strong> – Functions to update state (e.g., addItem, removeItem)</li>
+  <li><strong>Selectors</strong> – Access parts of the state in components</li>
+</ul>
+
+<p><strong>Example usage:</strong></p>
+<pre><code>import { useSelector, useDispatch } from 'react-redux';
+import { addItem } from '../redux/cartSlice';
+
+const CartButton = ({ product }) => {
+  const dispatch = useDispatch();
+  return (
+    &lt;button onClick={() => dispatch(addItem(product))&gt;
+      Add to Cart
+    &lt;/button&gt;
+  );
+};
+</code></pre>
+
+<h2>API Integration</h2>
+<p><strong>Base URL:</strong> https://dummyjson.com/products</p>
+<p>Fetch data using <code>axios</code> or <code>fetch</code> inside <code>src/api/products.js</code></p>
+
+<pre><code>import axios from 'axios';
+
+export const getProducts = async () =&gt; {
+  try {
+    const response = await axios.get('https://dummyjson.com/products');
+    return response.data.products;
+  } catch (error) {
+    console.error(error);
+  }
+};
+</code></pre>
+
+<h2>Troubleshooting</h2>
+<ul>
+  <li><strong>App not starting:</strong> Ensure Metro server is running and device/emulator is connected.</li>
+  <li><strong>Dependencies issues:</strong> Delete <code>node_modules</code> and run <code>npm install</code> or <code>yarn install</code>.</li>
+  <li><strong>Redux state not updating:</strong> Ensure the app is wrapped with <code>&lt;Provider store={store}&gt;</code>.</li>
+</ul>
+
+<h2>Future Enhancements</h2>
+<ul>
+  <li>Integration with real backend API</li>
+  <li>User authentication and profile management</li>
+  <li>Payment gateway integration for checkout</li>
+  <li>Dark mode support</li>
+  <li>Push notifications for offers and updates</li>
+</ul>
+
+<h2>Contributing</h2>
+<ul>
+  <li>Fork the repository</li>
+  <li>Create a new branch: <code>git checkout -b feature-name</code></li>
+  <li>Commit changes: <code>git commit -m "Add feature"</code></li>
+  <li>Push to branch: <code>git push origin feature-name</code></li>
+  <li>Create a Pull Request</li>
+</ul>
+
+<h2>License</h2>
+<p>This project is licensed under the <strong>MIT License</strong> – see the <a href="LICENSE">LICENSE</a> file for details.</p>
