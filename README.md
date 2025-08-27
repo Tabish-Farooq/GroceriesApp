@@ -1,97 +1,203 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+# Grocery App - React Native
 
-# Getting Started
+<p>A modern and responsive grocery shopping app built with <strong>React Native</strong>, Redux Toolkit, and dummy API data. This app allows users to explore groceries, add items to the cart, mark favourites, and view detailed product information.</p>
 
-> **Note**: Make sure you have completed the [Set Up Your Environment](https://reactnative.dev/docs/set-up-your-environment) guide before proceeding.
+<hr />
 
-## Step 1: Start Metro
+## Table of Contents
 
-First, you will need to run **Metro**, the JavaScript build tool for React Native.
+<ul>
+  <li><a href="#features">Features</a></li>
+  <li><a href="#screenshots">Screenshots</a></li>
+  <li><a href="#technologies-used">Technologies Used</a></li>
+  <li><a href="#installation">Installation</a></li>
+  <li><a href="#usage">Usage</a></li>
+  <li><a href="#folder-structure">Folder Structure</a></li>
+  <li><a href="#redux-state-management">Redux State Management</a></li>
+  <li><a href="#api-integration">API Integration</a></li>
+  <li><a href="#troubleshooting">Troubleshooting</a></li>
+  <li><a href="#contributing">Contributing</a></li>
+  <li><a href="#license">License</a></li>
+</ul>
 
-To start the Metro dev server, run the following command from the root of your React Native project:
+<hr />
 
-```sh
-# Using npm
-npm start
+## Features
 
-# OR using Yarn
-yarn start
-```
+<ul>
+  <li>Browse exclusive, best-selling, and grocery products</li>
+  <li>Search bar functionality for quick product search</li>
+  <li>Add items to the cart with dynamic quantity selection</li>
+  <li>Favourite products with heart toggle</li>
+  <li>Product details screen with description and price</li>
+  <li>Bottom Tab Navigation for easy access to Shop, Explore, Cart, Favourite, and Account screens</li>
+  <li>Responsive UI compatible with different screen sizes</li>
+</ul>
 
-## Step 2: Build and run your app
+<hr />
 
-With Metro running, open a new terminal window/pane from the root of your React Native project, and use one of the following commands to build and run your Android or iOS app:
+## Screenshots
 
-### Android
+<p><em>(Add screenshots of your app here)</em></p>
 
-```sh
-# Using npm
-npm run android
+<div>
+  <h4>Home Screen</h4>
+  <img src="./assets/screenshots/home.png" alt="Home Screen" width="300"/>
+</div>
 
-# OR using Yarn
-yarn android
-```
+<div>
+  <h4>Product Detail Screen</h4>
+  <img src="./assets/screenshots/product_detail.png" alt="Product Detail" width="300"/>
+</div>
 
-### iOS
+<div>
+  <h4>Cart Screen</h4>
+  <img src="./assets/screenshots/cart.png" alt="Cart Screen" width="300"/>
+</div>
 
-For iOS, remember to install CocoaPods dependencies (this only needs to be run on first clone or after updating native deps).
+<hr />
 
-The first time you create a new project, run the Ruby bundler to install CocoaPods itself:
+## Technologies Used
 
-```sh
-bundle install
-```
+<ul>
+  <li><strong>React Native</strong> – Framework for building cross-platform mobile apps</li>
+  <li><strong>Redux Toolkit</strong> – Efficient state management solution</li>
+  <li><strong>React Navigation</strong> – Stack & Bottom Tab navigation</li>
+  <li><strong>DummyJSON API</strong> – Fetch grocery product data</li>
+  <li><strong>React Native Vector Icons</strong> – For icons in the app</li>
+</ul>
 
-Then, and every time you update your native dependencies, run:
+<hr />
 
-```sh
+## Installation
+
+<p><strong>Note:</strong> Make sure you have completed the <a href="https://reactnative.dev/docs/environment-setup">Set Up Your Environment</a> guide before proceeding.</p>
+
+<ol>
+  <li>
+    <p>Clone the repository:</p>
+    <pre><code>git clone https://github.com/Tabish-Farooq/GroceriesApp.git</code></pre>
+  </li>
+  <li>
+    <p>Navigate to project folder:</p>
+    <pre><code>cd GroceriesApp</code></pre>
+  </li>
+  <li>
+    <p>Install dependencies:</p>
+    <pre><code>npm install
+# or
+yarn install</code></pre>
+  </li>
+  <li>
+    <p>Start Metro bundler:</p>
+    <pre><code>npm start
+# or
+yarn start</code></pre>
+  </li>
+  <li>
+    <p>Run on Android:</p>
+    <pre><code>npm run android
+# or
+yarn android</code></pre>
+  </li>
+  <li>
+    <p>Run on iOS (Mac only):</p>
+    <pre><code>bundle install
 bundle exec pod install
-```
-
-For more information, please visit [CocoaPods Getting Started guide](https://guides.cocoapods.org/using/getting-started.html).
-
-```sh
-# Using npm
 npm run ios
+# or
+yarn ios</code></pre>
+  </li>
+</ol>
 
-# OR using Yarn
-yarn ios
-```
+<p>💡 Tip: Use <code>npx react-native doctor</code> to check your environment setup</p>
 
-If everything is set up correctly, you should see your new app running in the Android Emulator, iOS Simulator, or your connected device.
+<hr />
 
-This is one way to run your app — you can also build it directly from Android Studio or Xcode.
+## Usage
 
-## Step 3: Modify your app
+<ul>
+  <li>Explore grocery products on <strong>Home Screen</strong></li>
+  <li>Tap heart icon to mark items as favourites</li>
+  <li>Add items to <strong>Cart</strong> and modify quantity</li>
+  <li>View detailed <strong>Product Information</strong> by tapping any item</li>
+  <li>Use Bottom Tab Navigation to switch between Shop, Explore, Cart, Favourite, and Account</li>
+  <li>Fast Refresh updates app automatically on save</li>
+</ul>
 
-Now that you have successfully run the app, let's make changes!
+<p><strong>Force Reload:</strong></p>
+<ul>
+  <li>Android: Press <kbd>R</kbd> twice or <kbd>Ctrl</kbd> + <kbd>M</kbd> / <kbd>Cmd ⌘</kbd> + <kbd>M</kbd> for Dev Menu</li>
+  <li>iOS: Press <kbd>R</kbd> in iOS Simulator</li>
+</ul>
 
-Open `App.tsx` in your text editor of choice and make some changes. When you save, your app will automatically update and reflect these changes — this is powered by [Fast Refresh](https://reactnative.dev/docs/fast-refresh).
+<hr />
 
-When you want to forcefully reload, for example to reset the state of your app, you can perform a full reload:
+## Folder Structure
 
-- **Android**: Press the <kbd>R</kbd> key twice or select **"Reload"** from the **Dev Menu**, accessed via <kbd>Ctrl</kbd> + <kbd>M</kbd> (Windows/Linux) or <kbd>Cmd ⌘</kbd> + <kbd>M</kbd> (macOS).
-- **iOS**: Press <kbd>R</kbd> in iOS Simulator.
+<pre>
+GroceriesApp/
+├─ android/              # Android native files
+├─ ios/                  # iOS native files
+├─ src/
+│  ├─ assets/            # Images, fonts, icons
+│  ├─ components/        # Reusable UI components
+│  ├─ screens/           # All app screens
+│  ├─ redux/             # Redux slices and store
+│  ├─ Navigation/        # React Navigation setup
+│  ├─ repository/        # API requests and data fetching
+│  └─ utils/             # Constants, endpoints, helpers
+├─ App.jsx               # Root component
+├─ package.json
+└─ README.md
+</pre>
 
-## Congratulations! :tada:
+<hr />
 
-You've successfully run and modified your React Native App. :partying_face:
+## Redux State Management
 
-### Now what?
+<ul>
+  <li><strong>cartSlice.js</strong> – Manage cart items, total quantity, and total price</li>
+  <li><strong>favouriteSlice.js</strong> – Handle favourite products toggle</li>
+  <li><strong>store.js</strong> – Combine slices and provide Redux store to the app</li>
+</ul>
 
-- If you want to add this new React Native code to an existing application, check out the [Integration guide](https://reactnative.dev/docs/integration-with-existing-apps).
-- If you're curious to learn more about React Native, check out the [docs](https://reactnative.dev/docs/getting-started).
+<hr />
 
-# Troubleshooting
+## API Integration
 
-If you're having issues getting the above steps to work, see the [Troubleshooting](https://reactnative.dev/docs/troubleshooting) page.
+<ul>
+  <li><strong>API Used:</strong> DummyJSON API</li>
+  <li><strong>Product Fields:</strong> name, price, description, image</li>
+  <li><strong>File:</strong> src/repository/ProductsRepository.js</li>
+  <li>Can be replaced with a real backend API if needed</li>
+</ul>
 
-# Learn More
+<hr />
 
-To learn more about React Native, take a look at the following resources:
+## Troubleshooting
 
-- [React Native Website](https://reactnative.dev) - learn more about React Native.
-- [Getting Started](https://reactnative.dev/docs/environment-setup) - an **overview** of React Native and how setup your environment.
-- [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
-- [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
-- [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+<ul>
+  <li>Use <code>npx react-native doctor</code> to identify environment issues</li>
+  <li>Ensure ADB is running and device/emulator is connected for Android</li>
+  <li>Reset Metro cache: <code>npm start --reset-cache</code> or <code>yarn start --reset-cache</code></li>
+  <li>For iOS: Make sure CocoaPods dependencies are installed</li>
+</ul>
+
+<hr />
+
+## Contributing
+
+<ol>
+  <li>Fork the repository</li>
+  <li>Create a new branch: <code>git checkout -b feature/YourFeature</code></li>
+  <li>Commit changes: <code>git commit -m "Add new feature"</code></li>
+  <li>Push to branch: <code>git push origin feature/YourFeature</code></li>
+  <li>Open a Pull Request</li>
+</ol>
+
+<hr />
+
+## License
+
+<p>This project is licensed under the <strong>MIT License</strong>. See the <a href="LICENSE">LICENSE</a> file for details.</p>
