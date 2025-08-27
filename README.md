@@ -53,21 +53,63 @@
 
 ## Screenshots
 
-| Home Screen | Login Screen | OTP Screen |
-|-------------|--------------|------------|
-| <img src="./src/assets/screenshots/HomeScreen.jpg" width="250"/> &nbsp; | <img src="./src/assets/screenshots/LoginScreen.jpg" width="250"/> &nbsp; | <img src="./src/assets/screenshots/OTPScreen.jpg" width="250"/> |
+<table>
+  <tr>
+    <th align="center"> <strong>Home Screen</strong> </th>
+    <th align="center"> <strong>Login Screen</strong> </th>
+    <th align="center"> <strong>OTP Screen</strong> </th>
+  </tr>
+  <tr>
+    <td align="center"><img src="./src/assets/screenshots/HomeScreen.jpg" width="250"/></td>
+    <td align="center"><img src="./src/assets/screenshots/LoginScreen.jpg" width="250"/></td>
+    <td align="center"><img src="./src/assets/screenshots/OTPScreen.jpg" width="250"/></td>
+  </tr>
+</table>
 
-| API Fetch | Main Screen | Product Detail |
-|-----------|-------------|----------------|
-| <img src="./src/assets/screenshots/apiFetchScreen.jpg" width="250"/> &nbsp; | <img src="./src/assets/screenshots/MainScreen.jpg" width="250"/> &nbsp; | <img src="./src/assets/screenshots/ProductDetailScreen.jpg" width="250"/> |
+<br/>
 
-| Explore Screen | Cart Screen | Empty Cart Screen |
-|----------------|-------------|-------------------|
-| <img src="./src/assets/screenshots/ExploreScreen.jpg" width="250"/> &nbsp; | <img src="./src/assets/screenshots/CartScreen.jpg" width="250"/> &nbsp; | <img src="./src/assets/screenshots/EmptyCartScreen.jpg" width="250"/> |
+<table>
+  <tr>
+    <th align="center"> <strong>API Fetch</strong> </th>
+    <th align="center"> <strong>Main Screen</strong> </th>
+    <th align="center"> <strong>Product Detail</strong> </th>
+  </tr>
+  <tr>
+    <td align="center"><img src="./src/assets/screenshots/apiFetchScreen.jpg" width="250"/></td>
+    <td align="center"><img src="./src/assets/screenshots/MainScreen.jpg" width="250"/></td>
+    <td align="center"><img src="./src/assets/screenshots/ProductDetailScreen.jpg" width="250"/></td>
+  </tr>
+</table>
 
-| Empty Favourite | Profile Screen |   |
-|-----------------|----------------|---|
-| <img src="./src/assets/screenshots/EmptyFavouriteScreen.jpg" width="250"/> &nbsp; | <img src="./src/assets/screenshots/ProfileScreen.jpg" width="250"/> &nbsp; |   |
+<br/>
+
+<table>
+  <tr>
+    <th align="center"> <strong>Explore Screen</strong> </th>
+    <th align="center"> <strong>Cart Screen</strong> </th>
+    <th align="center"> <strong>Empty Cart Screen</strong> </th>
+  </tr>
+  <tr>
+    <td align="center"><img src="./src/assets/screenshots/ExploreScreen.jpg" width="250"/></td>
+    <td align="center"><img src="./src/assets/screenshots/CartScreen.jpg" width="250"/></td>
+    <td align="center"><img src="./src/assets/screenshots/EmptyCartScreen.jpg" width="250"/></td>
+  </tr>
+</table>
+
+<br/>
+
+<table>
+  <tr>
+    <th align="center"> <strong>Empty Favourite</strong> </th>
+    <th align="center"> <strong>Profile Screen</strong> </th>
+    <th align="center"> </th>
+  </tr>
+  <tr>
+    <td align="center"><img src="./src/assets/screenshots/EmptyFavouriteScreen.jpg" width="250"/></td>
+    <td align="center"><img src="./src/assets/screenshots/ProfileScreen.jpg" width="250"/></td>
+    <td align="center"> </td>
+  </tr>
+</table>
 
 
 
