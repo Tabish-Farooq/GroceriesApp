@@ -50,6 +50,10 @@
 
 <div align="center">
 
+ <div align="center">
+
+ ## Screenshots
+
   <!-- Row 1 -->
   <table>
     <tr>
@@ -69,7 +73,67 @@
   </table>
 
   <br/>
+
+  <!-- Row 2 -->
+  <table>
+    <tr>
+      <td align="center">
+        <div style="font-size:24px; font-weight:bold; margin-bottom:10px;">API Fetch</div>
+        <img src="./src/assets/screenshots/apiFetchScreen.jpg" width="250" style="border:5px solid black; border-radius:12px;" />
+      </td>
+      <td align="center">
+        <div style="font-size:24px; font-weight:bold; margin-bottom:10px;">Main Screen</div>
+        <img src="./src/assets/screenshots/MainScreen.jpg" width="250" style="border:5px solid black; border-radius:12px;" />
+      </td>
+      <td align="center">
+        <div style="font-size:24px; font-weight:bold; margin-bottom:10px;">Product Detail</div>
+        <img src="./src/assets/screenshots/ProductDetailScreen.jpg" width="250" style="border:5px solid black; border-radius:12px;" />
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
+  <!-- Row 3 -->
+  <table>
+    <tr>
+      <td align="center">
+        <div style="font-size:24px; font-weight:bold; margin-bottom:10px;">Explore Screen</div>
+        <img src="./src/assets/screenshots/ExploreScreen.jpg" width="250" style="border:5px solid black; border-radius:12px;" />
+      </td>
+      <td align="center">
+        <div style="font-size:24px; font-weight:bold; margin-bottom:10px;">Empty Cart</div>
+        <img src="./src/assets/screenshots/EmptyCartScreen.jpg" width="250" style="border:5px solid black; border-radius:12px;" />
+      </td>
+      <td align="center">
+        <div style="font-size:24px; font-weight:bold; margin-bottom:10px;">Cart Screen</div>
+        <img src="./src/assets/screenshots/CartScreen.jpg" width="250" style="border:5px solid black; border-radius:12px;" />
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
+  <!-- Row 4 -->
+  <table>
+    <tr>
+      <td align="center">
+        <div style="font-size:24px; font-weight:bold; margin-bottom:10px;">Empty Favourite</div>
+        <img src="./src/assets/screenshots/EmptyFavouriteScreen.jpg" width="250" style="border:5px solid black; border-radius:12px;" />
+      </td>
+      <td align="center">
+        <div style="font-size:24px; font-weight:bold; margin-bottom:10px;">Favourite Screen</div>
+        <img src="./src/assets/screenshots/FavouriteScreen.jpg" width="250" style="border:5px solid black; border-radius:12px;" />
+      </td>
+      <td align="center">
+        <div style="font-size:24px; font-weight:bold; margin-bottom:10px;">Profile Screen</div>
+        <img src="./src/assets/screenshots/ProfileScreen.jpg" width="250" style="border:5px solid black; border-radius:12px;" />
+      </td>
+    </tr>
+  </table>
+
 </div>
+
 
 
 
