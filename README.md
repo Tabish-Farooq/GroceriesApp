@@ -45,15 +45,12 @@
   <strong>HomeScreen → LoginScreen → OTPScreen → APIFetchScreen → MainScreen → ProductDetailScreen → ExploreScreen → EmptyCartScreen → CartScreen → EmptyFavouriteScreen → FavouriteScreen → ProfileScreen</strong>
 </div>
 
-<div style="text-align:center; margin-top:10px;">
-  <img src="C:/Users/DELL/Downloads/projectSS/Screenshot (43).png" alt="App Flow Diagram" width="600"/>
-</div>
 
 <hr />
 
 ## Screenshots
 
-<table>
+<table cellspacing="20">
   <tr>
     <th align="center"><h1>Home Screen</h1></th>
     <th align="center"><h1>Login Screen</h1></th>
@@ -74,7 +71,7 @@
 
 <br/>
 
-<table>
+<table cellspacing="20">
   <tr>
     <th align="center"><h1>API Fetch</h1></th>
     <th align="center"><h1>Main Screen</h1></th>
@@ -95,7 +92,7 @@
 
 <br/>
 
-<table>
+<table cellspacing="20">
   <tr>
     <th align="center"><h1>Explore Screen</h1></th>
     <th align="center"><h1>Empty Cart Screen</h1></th>
@@ -116,7 +113,7 @@
 
 <br/>
 
-<table>
+<table cellspacing="20">
   <tr>
     <th align="center"><h1>Empty Favourite</h1></th>
     <th align="center"><h1>Favourite Screen</h1></th>
