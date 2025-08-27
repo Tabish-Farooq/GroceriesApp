@@ -50,87 +50,56 @@
 
 ## Screenshots
 
-<table cellspacing="20">
-  <tr>
-    <th align="center"><h1>Home Screen</h1></th>
-    <th align="center"><h1>Login Screen</h1></th>
-    <th align="center"><h1>OTP Screen</h1></th>
-  </tr>
-  <tr>
-    <td align="center" style="border:4px solid black; padding:15px;">
-      <img src="./src/assets/screenshots/HomeScreen.jpg" width="250"/>
-    </td>
-    <td align="center" style="border:4px solid black; padding:15px;">
-      <img src="./src/assets/screenshots/LoginScreen.jpg" width="250"/>
-    </td>
-    <td align="center" style="border:4px solid black; padding:15px;">
-      <img src="./src/assets/screenshots/OTPScreen.jpg" width="250"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
 
-<br/>
+  <!-- Row 1 -->
+  <img src="./src/assets/screenshots/HomeScreen.jpg" width="250" 
+       style="border: 6px solid black; border-radius: 15px; margin: 15px;" />
 
-<table cellspacing="20">
-  <tr>
-    <th align="center"><h1>API Fetch</h1></th>
-    <th align="center"><h1>Main Screen</h1></th>
-    <th align="center"><h1>Product Detail</h1></th>
-  </tr>
-  <tr>
-    <td align="center" style="border:4px solid black; padding:15px;">
-      <img src="./src/assets/screenshots/apiFetchScreen.jpg" width="250"/>
-    </td>
-    <td align="center" style="border:4px solid black; padding:15px;">
-      <img src="./src/assets/screenshots/MainScreen.jpg" width="250"/>
-    </td>
-    <td align="center" style="border:4px solid black; padding:15px;">
-      <img src="./src/assets/screenshots/ProductDetailScreen.jpg" width="250"/>
-    </td>
-  </tr>
-</table>
+  <img src="./src/assets/screenshots/LoginScreen.jpg" width="250" 
+       style="border: 6px solid black; border-radius: 15px; margin: 15px;" />
 
-<br/>
+  <img src="./src/assets/screenshots/OTPScreen.jpg" width="250" 
+       style="border: 6px solid black; border-radius: 15px; margin: 15px;" />
 
-<table cellspacing="20">
-  <tr>
-    <th align="center"><h1>Explore Screen</h1></th>
-    <th align="center"><h1>Empty Cart Screen</h1></th>
-    <th align="center"><h1>Cart Screen</h1></th>
-  </tr>
-  <tr>
-    <td align="center" style="border:4px solid black; padding:15px;">
-      <img src="./src/assets/screenshots/ExploreScreen.jpg" width="250"/>
-    </td>
-    <td align="center" style="border:4px solid black; padding:15px;">
-      <img src="./src/assets/screenshots/EmptyCartScreen.jpg" width="250"/>
-    </td>
-    <td align="center" style="border:4px solid black; padding:15px;">
-      <img src="./src/assets/screenshots/CartScreen.jpg" width="250"/>
-    </td>
-  </tr>
-</table>
+  <br/>
 
-<br/>
+  <!-- Row 2 -->
+  <img src="./src/assets/screenshots/apiFetchScreen.jpg" width="250" 
+       style="border: 6px solid black; border-radius: 15px; margin: 15px;" />
 
-<table cellspacing="20">
-  <tr>
-    <th align="center"><h1>Empty Favourite</h1></th>
-    <th align="center"><h1>Favourite Screen</h1></th>
-    <th align="center"><h1>Profile Screen</h1></th>
-  </tr>
-  <tr>
-    <td align="center" style="border:4px solid black; padding:15px;">
-      <img src="./src/assets/screenshots/EmptyFavouriteScreen.jpg" width="250"/>
-    </td>
-    <td align="center" style="border:4px solid black; padding:15px;">
-      <img src="./src/assets/screenshots/FavouriteScreen.jpg" width="250"/>
-    </td>
-    <td align="center" style="border:4px solid black; padding:15px;">
-      <img src="./src/assets/screenshots/ProfileScreen.jpg" width="250"/>
-    </td>
-  </tr>
-</table>
+  <img src="./src/assets/screenshots/MainScreen.jpg" width="250" 
+       style="border: 6px solid black; border-radius: 15px; margin: 15px;" />
+
+  <img src="./src/assets/screenshots/ProductDetailScreen.jpg" width="250" 
+       style="border: 6px solid black; border-radius: 15px; margin: 15px;" />
+
+  <br/>
+
+  <!-- Row 3 -->
+  <img src="./src/assets/screenshots/ExploreScreen.jpg" width="250" 
+       style="border: 6px solid black; border-radius: 15px; margin: 15px;" />
+
+  <img src="./src/assets/screenshots/EmptyCartScreen.jpg" width="250" 
+       style="border: 6px solid black; border-radius: 15px; margin: 15px;" />
+
+  <img src="./src/assets/screenshots/CartScreen.jpg" width="250" 
+       style="border: 6px solid black; border-radius: 15px; margin: 15px;" />
+
+  <br/>
+
+  <!-- Row 4 -->
+  <img src="./src/assets/screenshots/EmptyFavouriteScreen.jpg" width="250" 
+       style="border: 6px solid black; border-radius: 15px; margin: 15px;" />
+
+  <img src="./src/assets/screenshots/FavouriteScreen.jpg" width="250" 
+       style="border: 6px solid black; border-radius: 15px; margin: 15px;" />
+
+  <img src="./src/assets/screenshots/ProfileScreen.jpg" width="250" 
+       style="border: 6px solid black; border-radius: 15px; margin: 15px;" />
+
+</div>
+
 
 
 
