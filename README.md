@@ -57,65 +57,64 @@
 
 <div>
   <h4>Home Screen</h4>
-  <img src="C:/Users/DELL/Downloads/projectSS/HomeScreen.png" alt="Home Screen" width="300"/>
+  <img src="./src/assets/screenshots/HomeScreen.jpg" alt="Home Screen" width="300"/>
 </div>
 
 <div>
   <h4>Login Screen</h4>
-  <img src="C:/Users/DELL/Downloads/projectSS/LoginScreen.png" alt="Login Screen" width="300"/>
+  <img src="./src/assets/screenshots/LoginScreen.jpg" alt="Login Screen" width="300"/>
 </div>
 
 <div>
   <h4>OTP Screen</h4>
-  <img src="C:/Users/DELL/Downloads/projectSS/OTPScreen.png" alt="OTP Screen" width="300"/>
+  <img src="./src/assets/screenshots/OTPScreen.jpg" alt="OTP Screen" width="300"/>
 </div>
 
 <div>
   <h4>API Fetch Screen</h4>
-  <img src="C:/Users/DELL/Downloads/projectSS/apiFetchScreen.png" alt="API Fetch Screen" width="300"/>
+  <img src="./src/assets/screenshots/apiFetchScreen.jpg" alt="API Fetch Screen" width="300"/>
 </div>
 
 <div>
   <h4>Main Screen</h4>
-  <img src="C:/Users/DELL/Downloads/projectSS/MainScreen.png" alt="Main Screen" width="300"/>
+  <img src="./src/assets/screenshots/MainScreen.jpg" alt="Main Screen" width="300"/>
 </div>
 
 <div>
   <h4>Product Detail Screen</h4>
-  <img src="C:/Users/DELL/Downloads/projectSS/ProductDetailScreen.png" alt="Product Detail Screen" width="300"/>
+  <img src="./src/assets/screenshots/ProductDetailScreen.jpg" alt="Product Detail Screen" width="300"/>
 </div>
 
 <div>
   <h4>Explore Screen</h4>
-  <img src="C:/Users/DELL/Downloads/projectSS/ExploreScreen.png" alt="Explore Screen" width="300"/>
+  <img src="./src/assets/screenshots/ExploreScreen.jpg" alt="Explore Screen" width="300"/>
 </div>
 
 <div>
   <h4>Empty Cart Screen</h4>
-  <img src="C:/Users/DELL/Downloads/projectSS/EmptyCartScreen.png" alt="Empty Cart Screen" width="300"/>
+  <img src="./src/assets/screenshots/EmptyCartScreen.jpg" alt="Empty Cart Screen" width="300"/>
 </div>
 
 <div>
   <h4>Cart Screen</h4>
-  <img src="C:/Users/DELL/Downloads/projectSS/CartScreen.png" alt="Cart Screen" width="300"/>
+  <img src="./src/assets/screenshots/CartScreen.jpg" alt="Cart Screen" width="300"/>
 </div>
 
 <div>
   <h4>Empty Favourite Screen</h4>
-  <img src="C:/Users/DELL/Downloads/projectSS/EmptyFavouriteScreen.png" alt="Empty Favourite Screen" width="300"/>
+  <img src="./src/assets/screenshots/EmptyFavouriteScreen.jpg" alt="Empty Favourite Screen" width="300"/>
 </div>
 
 <div>
   <h4>Favourite Screen</h4>
-  <img src="C:/Users/DELL/Downloads/projectSS/FavouriteScreen.png" alt="Favourite Screen" width="300"/>
+  <img src="./src/assets/screenshots/FavouriteScreen.jpg" alt="Favourite Screen" width="300"/>
 </div>
 
 <div>
   <h4>Profile Screen</h4>
-  <img src="C:/Users/DELL/Downloads/projectSS/ProfileScreen.png" alt="Profile Screen" width="300"/>
+  <img src="./src/assets/screenshots/ProfileScreen.jpg" alt="Profile Screen" width="300"/>
 </div>
 
-<hr />
 
 ## Technologies Used
 
