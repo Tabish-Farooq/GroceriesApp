@@ -146,3 +146,47 @@ The app follows this flow from start to finish:
 1. Clone the repository:
    ```bash
    git clone https://github.com/Tabish-Farooq/GroceriesApp.git
+<h2>Navigate into the project directory:</h2>
+<pre><code>cd GroceriesApp</code></pre>
+
+<h2>Install dependencies:</h2>
+<pre><code>npm install
+# or
+yarn install
+</code></pre>
+
+<h2>Start the Metro server:</h2>
+<pre><code>npx react-native start</code></pre>
+
+<h2>Run the app on Android:</h2>
+<pre><code>npx react-native run-android</code></pre>
+
+<h2>Run the app on iOS (Mac only):</h2>
+<pre><code>npx react-native run-ios</code></pre>
+
+<h2>Usage</h2>
+<ul>
+  <li>Launch the app on your emulator or physical device.</li>
+  <li>Navigate through the bottom tabs: <strong>Shop, Explore, Cart, Favourite, and Account</strong>.</li>
+  <li>Tap on any product to view details and add it to the cart or mark it as favourite.</li>
+  <li>Use the search bar in the <strong>Explore</strong> screen to quickly find products.</li>
+  <li>Update quantities in the cart and see real-time changes using Redux state management.</li>
+</ul>
+
+<h2>Folder Structure</h2>
+<pre><code>GroceriesApp/
+│
+├── android/                 # Android native files
+├── ios/                     # iOS native files
+├── src/
+│   ├── assets/              # Images, fonts, icons
+│   ├── components/          # Reusable components
+│   ├── navigation/          # Navigation stack & tabs
+│   ├── screens/             # All app screens
+│   ├── redux/               # Redux slices & store
+│   ├── api/                 # API calls & services
+│   └── utils/               # Helper functions
+├── App.js                   # Main app entry
+├── package.json
+└── README.md
+</code></pre>
