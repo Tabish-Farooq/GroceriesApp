@@ -55,19 +55,20 @@
 
 | Home Screen | Login Screen | OTP Screen |
 |-------------|--------------|------------|
-| <img src="./src/assets/screenshots/HomeScreen.jpg" width="200"/> | <img src="./src/assets/screenshots/LoginScreen.jpg" width="200"/> | <img src="./src/assets/screenshots/OTPScreen.jpg" width="200"/> |
+| <img src="./src/assets/screenshots/HomeScreen.jpg" width="250"/> &nbsp; | <img src="./src/assets/screenshots/LoginScreen.jpg" width="250"/> &nbsp; | <img src="./src/assets/screenshots/OTPScreen.jpg" width="250"/> |
 
 | API Fetch | Main Screen | Product Detail |
 |-----------|-------------|----------------|
-| <img src="./src/assets/screenshots/apiFetchScreen.jpg" width="200"/> | <img src="./src/assets/screenshots/MainScreen.jpg" width="200"/> | <img src="./src/assets/screenshots/ProductDetailScreen.jpg" width="200"/> |
+| <img src="./src/assets/screenshots/apiFetchScreen.jpg" width="250"/> &nbsp; | <img src="./src/assets/screenshots/MainScreen.jpg" width="250"/> &nbsp; | <img src="./src/assets/screenshots/ProductDetailScreen.jpg" width="250"/> |
 
-| Favourite Screen | Cart Screen | Empty Cart |
-|------------------|-------------|------------|
-| <img src="./src/assets/screenshots/FavouriteScreen.jpg" width="200"/> | <img src="./src/assets/screenshots/CartScreen.jpg" width="200"/> | <img src="./src/assets/screenshots/EmptyCart.jpg" width="200"/> |
+| Explore Screen | Cart Screen | Empty Cart Screen |
+|----------------|-------------|-------------------|
+| <img src="./src/assets/screenshots/ExploreScreen.jpg" width="250"/> &nbsp; | <img src="./src/assets/screenshots/CartScreen.jpg" width="250"/> &nbsp; | <img src="./src/assets/screenshots/EmptyCartScreen.jpg" width="250"/> |
 
-| Search Screen | Profile Screen | Splash Screen |
-|---------------|----------------|----------------|
-| <img src="./src/assets/screenshots/SearchScreen.jpg" width="200"/> | <img src="./src/assets/screenshots/ProfileScreen.jpg" width="200"/> | <img src="./src/assets/screenshots/SplashScreen.jpg" width="200"/> |
+| Empty Favourite | Profile Screen |   |
+|-----------------|----------------|---|
+| <img src="./src/assets/screenshots/EmptyFavouriteScreen.jpg" width="250"/> &nbsp; | <img src="./src/assets/screenshots/ProfileScreen.jpg" width="250"/> &nbsp; |   |
+
 
 
 
