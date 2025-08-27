@@ -95,16 +95,16 @@
   <tr>
     <th align="center"><strong>Explore Screen</strong></th>
     <td width="40"></td>
-    <th align="center"><strong>Cart Screen</strong></th>
-    <td width="40"></td>
     <th align="center"><strong>Empty Cart Screen</strong></th>
+    <td width="40"></td>
+    <th align="center"><strong>Cart Screen</strong></th>
   </tr>
   <tr>
     <td align="center"><img src="./src/assets/screenshots/ExploreScreen.jpg" width="250"/></td>
     <td></td>
-    <td align="center"><img src="./src/assets/screenshots/CartScreen.jpg" width="250"/></td>
-    <td></td>
     <td align="center"><img src="./src/assets/screenshots/EmptyCartScreen.jpg" width="250"/></td>
+    <td></td>
+    <td align="center"><img src="./src/assets/screenshots/CartScreen.jpg" width="250"/></td>
   </tr>
 </table>
 
@@ -114,14 +114,19 @@
   <tr>
     <th align="center"><strong>Empty Favourite</strong></th>
     <td width="40"></td>
+    <th align="center"><strong>Favourite Screen</strong></th>
+    <td width="40"></td>
     <th align="center"><strong>Profile Screen</strong></th>
   </tr>
   <tr>
     <td align="center"><img src="./src/assets/screenshots/EmptyFavouriteScreen.jpg" width="250"/></td>
     <td></td>
+    <td align="center"><img src="./src/assets/screenshots/FavouriteScreen.jpg" width="250"/></td>
+    <td></td>
     <td align="center"><img src="./src/assets/screenshots/ProfileScreen.jpg" width="250"/></td>
   </tr>
 </table>
+
 
 
 
