@@ -55,13 +55,17 @@
 
 <table>
   <tr>
-    <th align="center"> <strong>Home Screen</strong> </th>
-    <th align="center"> <strong>Login Screen</strong> </th>
-    <th align="center"> <strong>OTP Screen</strong> </th>
+    <th align="center"><strong>Home Screen</strong></th>
+    <td width="40"></td>
+    <th align="center"><strong>Login Screen</strong></th>
+    <td width="40"></td>
+    <th align="center"><strong>OTP Screen</strong></th>
   </tr>
   <tr>
     <td align="center"><img src="./src/assets/screenshots/HomeScreen.jpg" width="250"/></td>
+    <td></td>
     <td align="center"><img src="./src/assets/screenshots/LoginScreen.jpg" width="250"/></td>
+    <td></td>
     <td align="center"><img src="./src/assets/screenshots/OTPScreen.jpg" width="250"/></td>
   </tr>
 </table>
@@ -70,13 +74,17 @@
 
 <table>
   <tr>
-    <th align="center"> <strong>API Fetch</strong> </th>
-    <th align="center"> <strong>Main Screen</strong> </th>
-    <th align="center"> <strong>Product Detail</strong> </th>
+    <th align="center"><strong>API Fetch</strong></th>
+    <td width="40"></td>
+    <th align="center"><strong>Main Screen</strong></th>
+    <td width="40"></td>
+    <th align="center"><strong>Product Detail</strong></th>
   </tr>
   <tr>
     <td align="center"><img src="./src/assets/screenshots/apiFetchScreen.jpg" width="250"/></td>
+    <td></td>
     <td align="center"><img src="./src/assets/screenshots/MainScreen.jpg" width="250"/></td>
+    <td></td>
     <td align="center"><img src="./src/assets/screenshots/ProductDetailScreen.jpg" width="250"/></td>
   </tr>
 </table>
@@ -85,13 +93,17 @@
 
 <table>
   <tr>
-    <th align="center"> <strong>Explore Screen</strong> </th>
-    <th align="center"> <strong>Cart Screen</strong> </th>
-    <th align="center"> <strong>Empty Cart Screen</strong> </th>
+    <th align="center"><strong>Explore Screen</strong></th>
+    <td width="40"></td>
+    <th align="center"><strong>Cart Screen</strong></th>
+    <td width="40"></td>
+    <th align="center"><strong>Empty Cart Screen</strong></th>
   </tr>
   <tr>
     <td align="center"><img src="./src/assets/screenshots/ExploreScreen.jpg" width="250"/></td>
+    <td></td>
     <td align="center"><img src="./src/assets/screenshots/CartScreen.jpg" width="250"/></td>
+    <td></td>
     <td align="center"><img src="./src/assets/screenshots/EmptyCartScreen.jpg" width="250"/></td>
   </tr>
 </table>
@@ -100,16 +112,17 @@
 
 <table>
   <tr>
-    <th align="center"> <strong>Empty Favourite</strong> </th>
-    <th align="center"> <strong>Profile Screen</strong> </th>
-    <th align="center"> </th>
+    <th align="center"><strong>Empty Favourite</strong></th>
+    <td width="40"></td>
+    <th align="center"><strong>Profile Screen</strong></th>
   </tr>
   <tr>
     <td align="center"><img src="./src/assets/screenshots/EmptyFavouriteScreen.jpg" width="250"/></td>
+    <td></td>
     <td align="center"><img src="./src/assets/screenshots/ProfileScreen.jpg" width="250"/></td>
-    <td align="center"> </td>
   </tr>
 </table>
+
 
 
 
