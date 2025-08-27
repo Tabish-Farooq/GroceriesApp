@@ -53,45 +53,44 @@
 <div align="center">
 
   <!-- Row 1 -->
-  <div style="display:inline-block; text-align:center; margin:10px;">
-    <h4>Home Screen</h4>
-    <img src="./src/assets/screenshots/HomeScreen.jpg" width="250" style="border:5px solid black; border-radius:12px;" />
-  </div>
+  <table>
+    <tr>
+      <td align="center">
+        <h4>Home Screen</h4>
+        <img src="./src/assets/screenshots/HomeScreen.jpg" width="250" style="border:5px solid black; border-radius:12px;" />
+      </td>
+      <td align="center">
+        <h4>Login Screen</h4>
+        <img src="./src/assets/screenshots/LoginScreen.jpg" width="250" style="border:5px solid black; border-radius:12px;" />
+      </td>
+      <td align="center">
+        <h4>OTP Screen</h4>
+        <img src="./src/assets/screenshots/OTPScreen.jpg" width="250" style="border:5px solid black; border-radius:12px;" />
+      </td>
+    </tr>
+  </table>
 
-  <div style="display:inline-block; text-align:center; margin:10px;">
-    <h4>Login Screen</h4>
-    <img src="./src/assets/screenshots/LoginScreen.jpg" width="250" style="border:5px solid black; border-radius:12px;" />
-  </div>
-
-  <div style="display:inline-block; text-align:center; margin:10px;">
-    <h4>OTP Screen</h4>
-    <img src="./src/assets/screenshots/OTPScreen.jpg" width="250" style="border:5px solid black; border-radius:12px;" />
-  </div>
-
-</div>
-
-<br/>
-
-<div align="center">
+  <br/>
 
   <!-- Row 2 -->
-  <div style="display:inline-block; text-align:center; margin:10px;">
-    <h4>API Fetch</h4>
-    <img src="./src/assets/screenshots/apiFetchScreen.jpg" width="250" style="border:5px solid black; border-radius:12px;" />
-  </div>
-
-  <div style="display:inline-block; text-align:center; margin:10px;">
-    <h4>Main Screen</h4>
-    <img src="./src/assets/screenshots/MainScreen.jpg" width="250" style="border:5px solid black; border-radius:12px;" />
-  </div>
-
-  <div style="display:inline-block; text-align:center; margin:10px;">
-    <h4>Product Detail</h4>
-    <img src="./src/assets/screenshots/ProductDetailScreen.jpg" width="250" style="border:5px solid black; border-radius:12px;" />
-  </div>
+  <table>
+    <tr>
+      <td align="center">
+        <h4>API Fetch</h4>
+        <img src="./src/assets/screenshots/apiFetchScreen.jpg" width="250" style="border:5px solid black; border-radius:12px;" />
+      </td>
+      <td align="center">
+        <h4>Main Screen</h4>
+        <img src="./src/assets/screenshots/MainScreen.jpg" width="250" style="border:5px solid black; border-radius:12px;" />
+      </td>
+      <td align="center">
+        <h4>Product Detail</h4>
+        <img src="./src/assets/screenshots/ProductDetailScreen.jpg" width="250" style="border:5px solid black; border-radius:12px;" />
+      </td>
+    </tr>
+  </table>
 
 </div>
-
 
 
 
